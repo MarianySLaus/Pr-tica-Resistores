@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(173, 211, 173);
+    color: black;
+    text-align: justify;
+}
+nav{
+    font-size: 28px;
+    text-align: center;
+}
+nav a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover{
+    background-color: rgb(133, 180, 133)
+}
+h1{
+    font-size: 36px;
+}
+h2{
+    font-size: 32px;
+}
+p{
+    font-size: 25px;
+}
+div{
+    text-align: center;
+}
+div img{
+    border: solid green 10px;
+    border-radius: 16px;
+}
+small{
+    font-size: 20px;
+}
+div a{
+    color: rgba(0, 2, 143, 0.993);
+    font-size: 20px;
+    text-decoration: none;
+}
